@@ -3,6 +3,10 @@
 .travis
 .vscode
 .config
+.git
+.claude
+.agents
+idea/
 Dockerfile
 build/
 built/
